@@ -1,4 +1,4 @@
-defmodule AOC.Day1 do
+defmodule AOC.Day1.Part1 do
   @moduledoc """
   On each line, the calibration value can be found by combining the first digit and the last digit (in that order) to form a single two-digit number.
   """
