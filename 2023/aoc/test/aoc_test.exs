@@ -1,8 +1,8 @@
-defmodule AOCTest do
+defmodule D1Test do
   use ExUnit.Case
-  doctest AOC
+  doctest D1
 
   test "greets the world" do
-    assert AOC.hello() == :world
+    assert D1.hello() == :world
   end
 end
